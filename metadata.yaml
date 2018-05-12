@@ -4,7 +4,7 @@ contributor:
   contributor:
     agent_name: Rank, Otto
     birthdate: 1884
-    deathdate: &id001 1939
+    deathdate: 1939
     gutenberg_agent_id: '26165'
     url: http://www.gutenberg.org/2009/agents/26165
 covers:
@@ -14,11 +14,13 @@ creator:
   author:
     agent_name: Freud, Sigmund
     birthdate: 1856
-    deathdate: *id001
+    deathdate: 1939
     gutenberg_agent_id: '391'
     url: http://www.gutenberg.org/2009/agents/391
     wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40739#Die-Traumdeutung
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2012-09-12'
 gutenberg_type: Text
