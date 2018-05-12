@@ -1,0 +1,38 @@
+_repo: Die-Traumdeutung_40739
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Rank, Otto
+    birthdate: 1884
+    deathdate: &id001 1939
+    gutenberg_agent_id: '26165'
+    url: http://www.gutenberg.org/2009/agents/26165
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freud, Sigmund
+    birthdate: 1856
+    deathdate: *id001
+    gutenberg_agent_id: '391'
+    url: http://www.gutenberg.org/2009/agents/391
+    wikipedia: http://en.wikipedia.org/wiki/Sigmund_Freud
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2012-09-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40739'
+  lccn: '83149951'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychoanalysis'
+- !lcc 'BF'
+- !lcsh 'Dreams'
+- !lcsh 'Dream interpretation'
+title: Die Traumdeutung
+url: http://www.gutenberg.org/ebooks/40739
